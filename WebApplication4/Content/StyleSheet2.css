@@ -1,0 +1,44 @@
+﻿.testing {
+    padding: 30px;
+}
+
+.preview {
+    width: 20%;
+    border: 1px solid white;
+    background-color: #FFAF49;
+    font-size: 25px;
+    font-family: 'Times New Roman', serif;
+    margin-bottom: 20px
+}
+
+.previewsecondLevel {
+    color: #054679;
+}
+
+.previewsecondLevelp {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: -5px;
+}
+
+.preview2 {
+    width: 35%;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #5C856E;
+    font-size: 20px;
+    box-shadow: 100px;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 10px 10px 50px grey;
+}
+
+.preview2secondLevel {
+    color: #054679;
+}
+
+.preview2secondLevelp {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
